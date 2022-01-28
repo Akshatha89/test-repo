@@ -1,0 +1,10 @@
+total 32
+drwxrwxr-x 2 ubuntu ubuntu 4096 Jan 14 17:26 dir1
+-rwxrwxrwx 1 ubuntu ubuntu  155 Jan 19 07:56 fact.sh
+-rw-rw-r-- 1 ubuntu ubuntu    0 Jan 20 05:23 file.txt
+-rw-rw-r-- 1 ubuntu ubuntu   69 Jan 20 05:20 file1.txt
+-rwxrwxrwx 1 ubuntu ubuntu  170 Jan 19 08:39 forfact.sh
+-rwx------ 1 ubuntu ubuntu  175 Jan 15 17:09 script.sh
+-rwxrwxrwx 1 ubuntu ubuntu  149 Jan 19 06:51 script2.sh
+-rwxrwxrwx 1 ubuntu ubuntu  114 Jan 19 07:51 sum.sh
+-rwxrwxrwx 1 ubuntu ubuntu  125 Jan 20 05:22 while.sh
